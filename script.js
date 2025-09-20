@@ -607,7 +607,7 @@ document.head.appendChild(styleElement);
 
 // Initialize page
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('🎉 Ordinaree website loaded successfully!');
+    console.log('🎉 Shobh website loaded successfully!');
 
     // Initialize cart count
     updateCartCount();
